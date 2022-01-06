@@ -1,0 +1,1 @@
+El propósito de este proyecto es registrar una lista de servicios realizados en una hotelería, el cual cuenta con la clase padre (Servicio) y sus hijos (Hospedaje y Gastronomía). Se contará con distintos metodos en cada clase y se "jugará" con las fechas y los días de descuentos. 
